@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3866-first-unique-even-element](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0160-intersection-of-two-linked-lists) |
+| [3866-first-unique-even-element](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3866-first-unique-even-element](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
