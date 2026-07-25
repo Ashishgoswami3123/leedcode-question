@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0540-single-element-in-a-sorted-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Linked List
 |  |
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0540-single-element-in-a-sorted-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
