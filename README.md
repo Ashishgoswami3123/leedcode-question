@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0050-powx-n) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
