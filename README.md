@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0704-binary-search) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0441-arranging-coins](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0704-binary-search) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3866-first-unique-even-element) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
