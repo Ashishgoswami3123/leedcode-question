@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
