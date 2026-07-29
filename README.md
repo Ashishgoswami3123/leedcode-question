@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0242-valid-anagram) |
 | [3866-first-unique-even-element](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -72,4 +73,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
