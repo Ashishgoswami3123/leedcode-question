@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/1672-richest-customer-wealth) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3866-first-unique-even-element](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3866-first-unique-even-element) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
