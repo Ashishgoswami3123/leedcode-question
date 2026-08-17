@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0441-arranging-coins) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
