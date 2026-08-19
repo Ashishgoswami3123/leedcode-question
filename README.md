@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0509-fibonacci-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
