@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0867-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/1672-richest-customer-wealth) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
