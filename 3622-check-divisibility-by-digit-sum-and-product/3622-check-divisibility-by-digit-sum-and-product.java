@@ -8,8 +8,7 @@ class Solution {
             mutl *=(n%10);
             n = n/10;
         }
-        int result = sum+mutl;
-        if(m%result==0){
+        if(m%(sum+mutl)==0){
             return true;
         }
         return false;
