@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0050-powx-n) |
+| [0149-max-points-on-a-line](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0326-power-of-three) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0149-max-points-on-a-line) |
 | [0485-max-consecutive-ones](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0704-binary-search) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0242-valid-anagram) |
 | [3866-first-unique-even-element](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/3866-first-unique-even-element) |
@@ -142,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
