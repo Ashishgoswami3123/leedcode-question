@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0704-binary-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0242-valid-anagram) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -110,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0118-pascals-triangle) |
+| [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -129,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0135-candy) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
