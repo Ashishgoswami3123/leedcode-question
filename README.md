@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0704-binary-search) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0342-power-of-four) |
 ## Number Theory
