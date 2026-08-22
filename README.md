@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
