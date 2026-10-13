@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -200,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
