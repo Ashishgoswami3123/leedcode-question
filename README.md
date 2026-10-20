@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0149-max-points-on-a-line) |
+| [0238-product-of-array-except-self](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0704-binary-search) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/1480-running-sum-of-1d-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
