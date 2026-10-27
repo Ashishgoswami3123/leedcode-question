@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0242-valid-anagram) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ashishgoswami3123/leedcode-question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
